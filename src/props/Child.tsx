@@ -22,4 +22,4 @@ export const ChildAsFc: React.FC<ChildProps> = ({ color, onClick }) => {
     </div>
 }
 
-//ChildAsFc.displayName will work
+// ChildAsFc.displayName will work
